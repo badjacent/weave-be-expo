@@ -47,6 +47,12 @@
         "projectId": "cef0be57-4b01-41b7-a717-cf0edd7c352b"
       }
     },
-    "owner": "mhnextgmailcom"
+    "owner": "mhnextgmailcom",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/cef0be57-4b01-41b7-a717-cf0edd7c352b"
+    }
   }
 }
