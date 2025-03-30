@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TestFlightApp",
-    "slug": "TestFlightApp",
+    "name": "weave-be-expo",
+    "slug": "weave-be-expo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
